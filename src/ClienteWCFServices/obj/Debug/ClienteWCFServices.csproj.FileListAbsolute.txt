@@ -1,0 +1,7 @@
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\bin\ClienteWCFServices.dll.config
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\bin\ClienteWCFServices.dll
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\bin\ClienteWCFServices.pdb
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\obj\Debug\ClienteWCFServices.csprojAssemblyReference.cache
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\obj\Debug\ClienteWCFServices.csproj.CoreCompileInputs.cache
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\obj\Debug\ClienteWCFServices.dll
+C:\Users\diretoria2018\source\repos\ClienteWCFServices\obj\Debug\ClienteWCFServices.pdb
